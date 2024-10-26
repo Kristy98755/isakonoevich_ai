@@ -1,4 +1,4 @@
-const API_KEY = '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';
+const API_KEY = 'sk-RM9aOJLdig9w3j6nOKSgVzaz4zSKL3xdkJ2C8Rq40gT3BlbkFJxTWLIptVz-gb_Ljzu8Vagc-K_wZhUvBLnOB175k5oA';
 
 const errorMapping = {
     400: "Неправильный запрос. Проверьте данные, отправленные на сервер.",
